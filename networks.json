@@ -1,4 +1,6 @@
 {
   "ethereum": 100,
-  "optimism": 101
+  "optimism": 101,
+  "arbitrum": 102,
+  "base": 103
 }

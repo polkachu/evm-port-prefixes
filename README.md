@@ -14,6 +14,8 @@ This project is intended for Polkachu team's internal us. That said, if other no
 | -------- | ----------- |
 | Ethereum | 100         |
 | Optimism | 101         |
+| Arbitrum | 102         |
+| Base     | 103         |
 
 ## JSON API
 
