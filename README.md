@@ -16,4 +16,4 @@ This project is intended for Polkachu team's internal us. That said, if other no
 
 ## JSON API
 
-Here is the [JSON API](https://raw.githubusercontent.com/polkachu/cosmos-port-prefixes/main/networks.json).
+Here is the [JSON API](https://raw.githubusercontent.com/PolkachuIntern/evm-port-prefixes/master/networks.json).
