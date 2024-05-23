@@ -12,7 +12,8 @@ This project is intended for Polkachu team's internal us. That said, if other no
 
 | Network  | Port Prefix |
 | -------- | ----------- |
-| Optimism | 100         |
+| Ethereum | 100         |
+| Optimism | 101         |
 
 ## JSON API
 
