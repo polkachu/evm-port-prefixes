@@ -10,12 +10,14 @@ This project is intended for Polkachu team's internal use. That said, if other n
 
 ## Supported EVMs and Prefixes
 
-| Network  | Port Prefix |
-| -------- | ----------- |
-| Ethereum | 100         |
-| Optimism | 101         |
-| Arbitrum | 102         |
-| Base     | 103         |
+| Network   | Port Prefix |
+| --------- | ----------- |
+| Ethereum  | 100         |
+| Optimism  | 101         |
+| Arbitrum  | 102         |
+| Base      | 103         |
+| Kava      | 104         |
+| Avalanche | 105         |
 
 ## JSON API
 

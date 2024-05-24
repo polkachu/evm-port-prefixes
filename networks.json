@@ -2,5 +2,7 @@
   "ethereum": 100,
   "optimism": 101,
   "arbitrum": 102,
-  "base": 103
+  "base": 103,
+  "kava": 104,
+  "avalanche": 105
 }
