@@ -19,6 +19,7 @@ This project is intended for Polkachu team's internal use. That said, if other n
 | Kava      | 104         |
 | Avalanche | 105         |
 | Scroll    | 106         |
+| Immutable | 107         |
 
 ## JSON API
 
