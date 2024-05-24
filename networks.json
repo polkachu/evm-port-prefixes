@@ -4,5 +4,6 @@
   "arbitrum": 102,
   "base": 103,
   "kava": 104,
-  "avalanche": 105
+  "avalanche": 105,
+  "scroll": 106
 }
