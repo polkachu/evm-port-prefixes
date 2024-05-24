@@ -6,5 +6,6 @@
   "kava": 104,
   "avalanche": 105,
   "scroll": 106,
-  "immutable": 107
+  "immutable": 107,
+  "blast": 108
 }
