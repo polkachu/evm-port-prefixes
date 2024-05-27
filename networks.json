@@ -8,5 +8,6 @@
   "scroll": 106,
   "immutable": 107,
   "blast": 108,
-  "moonbeam": 109
+  "moonbeam": 109,
+  "centrifuge": 110
 }
