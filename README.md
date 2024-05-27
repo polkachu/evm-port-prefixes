@@ -23,6 +23,8 @@ This project is intended for Polkachu team's internal use. That said, if other n
 | Blast      | 108         |
 | Moonbeam   | 109         |
 | Centrifuge | 110         |
+| Polygon    | 111         |
+| Fraxtal    | 112         |
 
 ## JSON API
 

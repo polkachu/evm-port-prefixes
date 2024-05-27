@@ -9,5 +9,7 @@
   "immutable": 107,
   "blast": 108,
   "moonbeam": 109,
-  "centrifuge": 110
+  "centrifuge": 110,
+  "fraxtal": 111,
+  "polygon": 112
 }
