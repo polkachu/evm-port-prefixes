@@ -25,6 +25,8 @@ This project is intended for Polkachu team's internal use. That said, if other n
 | Centrifuge | 110         |
 | Polygon    | 111         |
 | Fraxtal    | 112         |
+| Sei        | 113         |
+| Evmos      | 114         |
 
 ## JSON API
 

@@ -11,5 +11,7 @@
   "moonbeam": 109,
   "centrifuge": 110,
   "fraxtal": 111,
-  "polygon": 112
+  "polygon": 112,
+  "sei": 113,
+  "evmos": 114
 }
