@@ -21,6 +21,7 @@ This project is intended for Polkachu team's internal use. That said, if other n
 | Scroll    | 106         |
 | Immutable | 107         |
 | Blast     | 108         |
+| Moonbeam  | 109         |
 
 ## JSON API
 
