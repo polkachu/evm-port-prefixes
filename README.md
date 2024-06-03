@@ -27,6 +27,7 @@ This project is intended for Polkachu team's internal use. That said, if other n
 | Fraxtal    | 112         |
 | Sei        | 113         |
 | Evmos      | 114         |
+| Linear     | 115         |
 
 ## JSON API
 
