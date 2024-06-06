@@ -29,6 +29,7 @@ This project is intended for Polkachu team's internal use. That said, if other n
 | Evmos      | 114         |
 | Linear     | 115         |
 | Mantle     | 116         |
+| Autonity   | 117         |
 
 ## JSON API
 
