@@ -30,6 +30,7 @@ This project is intended for Polkachu team's internal use. That said, if other n
 | Linear     | 115         |
 | Mantle     | 116         |
 | Autonity   | 117         |
+| Xpla       | 118         |
 
 ## JSON API
 
