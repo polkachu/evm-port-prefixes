@@ -31,6 +31,7 @@ This project is intended for Polkachu team's internal use. That said, if other n
 | Mantle     | 116         |
 | Autonity   | 117         |
 | Xpla       | 118         |
+| Zetachain  | 119         |
 
 ## JSON API
 
