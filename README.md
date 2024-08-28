@@ -32,6 +32,7 @@ This project is intended for Polkachu team's internal use. That said, if other n
 | Autonity   | 117         |
 | Xpla       | 118         |
 | Zetachain  | 119         |
+| Story      | 120         |
 
 ## JSON API
 
