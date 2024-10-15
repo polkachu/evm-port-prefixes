@@ -33,6 +33,7 @@ This project is intended for Polkachu team's internal use. That said, if other n
 | Xpla       | 118         |
 | Zetachain  | 119         |
 | Story      | 120         |
+| Crossfi    | 121         |
 
 ## JSON API
 
