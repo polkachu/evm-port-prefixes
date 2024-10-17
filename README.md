@@ -34,6 +34,7 @@ This project is intended for Polkachu team's internal use. That said, if other n
 | Zetachain  | 119         |
 | Story      | 120         |
 | Crossfi    | 121         |
+| Berachain  | 122         |
 
 ## JSON API
 
