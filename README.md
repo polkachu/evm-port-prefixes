@@ -35,6 +35,7 @@ This project is intended for Polkachu team's internal use. That said, if other n
 | Story      | 120         |
 | Crossfi    | 121         |
 | Berachain  | 122         |
+| Warden     | 123         |
 
 ## JSON API
 
