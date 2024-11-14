@@ -22,5 +22,6 @@
   "story": 120,
   "crossfi": 121,
   "berachain": 122,
-  "warden": 123
+  "warden": 123,
+  "starknet": 124
 }
