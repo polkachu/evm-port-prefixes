@@ -37,6 +37,7 @@ This project is intended for Polkachu team's internal use. That said, if other n
 | Berachain  | 122         |
 | Warden     | 123         |
 | Starknet   | 124         |
+| XPR        | 125         |
 
 ## JSON API
 

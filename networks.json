@@ -23,5 +23,6 @@
   "crossfi": 121,
   "berachain": 122,
   "warden": 123,
-  "starknet": 124
+  "starknet": 124,
+  "xpr": 125
 }
