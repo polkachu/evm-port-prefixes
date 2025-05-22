@@ -24,5 +24,6 @@
   "berachain": 122,
   "warden": 123,
   "starknet": 124,
-  "xpr": 125
+  "xpr": 125,
+  "injective": 126
 }
