@@ -25,5 +25,6 @@
   "warden": 123,
   "starknet": 124,
   "xpr": 125,
-  "injective": 126
+  "injective": 126,
+  "noble": 127
 }
